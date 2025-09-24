@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+.bg1{
+    background-image: url(./Слой\ 2\ 1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 55px;
+}
